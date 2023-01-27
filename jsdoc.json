@@ -23,5 +23,6 @@
 	"docdash": { 
     "static": false,
     "sort": false
-  }
+  },
+	"homepage" : "https://whl5105.github.io/wanted-pre-onboarding-challenge-fe-2"
 }
