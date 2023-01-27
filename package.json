@@ -1,0 +1,16 @@
+{
+	"name": "jsdoc-boilerplate",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"docs": "jsdoc -c jsdoc.json"
+	},
+	"devDependencies": {
+		"jsdoc": "^3.6.11"
+	},
+	"dependencies": {
+		"docdash": "^2.0.1",
+		"jsdocs": "^1.0.0"
+	}
+}
