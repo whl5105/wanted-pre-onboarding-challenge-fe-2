@@ -1,8 +1,13 @@
-# Todo jsdoc 
-> 원티드 프리온보딩 프론트엔드 챌린지 에서 진행하는 과제입니다. 
+
+<h1 align="center">Todo jsdoc  📜</h1>
+
+> 원티드 프리온보딩 프론트엔드 챌린지에서 진행하는 과제입니다. 
+
+<br />
 
 ### [🏠 Homepage](https://whl5105.github.io/wanted-pre-onboarding-challenge-fe-2)
 
+<br />
 
 ## 🚀 Usage
 ### Install
