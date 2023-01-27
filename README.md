@@ -31,4 +31,5 @@ yarn docs
 ## 📝 Reference
 - [use JSDoc](https://jsdoc.app)
 - [JSDoc Boilerplate](https://github.com/pocojang/jsdoc-boilerplate)
+- [docdash templates](https://ahribori.com/article/58f8737c5cab3c0c649bdb3f)
 - [gh-pages](https://velog.io/@qhgus/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-GitHub-Pages%EB%A1%9C-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-feat.-React)
