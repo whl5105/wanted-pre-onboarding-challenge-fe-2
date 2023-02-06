@@ -16,23 +16,23 @@ class Todo{
 	/**
 	 * @property {number} id  Todo id 
 	 */
-	this.id = TodoList.id
+	this.id = TodoInfo.id
 	/**
 	 * @property {string} content Todo content
 	 */
-	this.content = TodoList.content
+	this.content = TodoInfo.content
 	/**
 	 * @property {boolean} isCompleted Todo is complete
 	 */
-	this.isCompleted = TodoList.isCompleted
+	this.isCompleted = TodoInfo.isCompleted
 	/**
 	 * @property {string} category Todo category
 	 */
-	this.category = TodoList.category
+	this.category = TodoInfo.category
 	/**
 	 * @property {Tag[]} tags todo tag 
 	 */
-	this.tags = TodoList.tags
+	this.tags = TodoInfo.tags
 	}
 }
 
