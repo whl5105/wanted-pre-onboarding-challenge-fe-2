@@ -4,7 +4,7 @@
 > 원티드 프리온보딩 프론트엔드 챌린지에서 진행하는 과제입니다. 
 
 
-[typescript-exercises][https://github.com/whl5105/wanted-pre-onboarding-challenge-fe-2/blob/main/typescript-exercises.md]
+[typescript-exercises](https://github.com/whl5105/wanted-pre-onboarding-challenge-fe-2/blob/main/typescript-exercises.md)
 
 <br />
 
